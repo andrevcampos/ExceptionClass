@@ -17,6 +17,7 @@
             catch (InsufficientFundsException ex)
             {
                 Console.WriteLine(ex.ToString());
+
             }
 
         }
